@@ -1,1 +1,1 @@
-# Case-study-Combining-K-means-clustering-with-RRT-
+# Case study (Combining K-means clustering with RRT*)
